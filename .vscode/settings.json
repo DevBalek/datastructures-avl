@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "__config": "cpp",
+        "__hash_table": "cpp",
+        "__node_handle": "cpp",
+        "cstdlib": "cpp",
+        "optional": "cpp",
+        "unordered_map": "cpp",
+        "istream": "cpp",
+        "filesystem": "cpp",
+        "deque": "cpp",
+        "functional": "cpp",
+        "iterator": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    }
+}
